@@ -1,7 +1,7 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## RRemote CRUD
+## Remote CRUD
 
 ### Author: Erin Trainor
 
